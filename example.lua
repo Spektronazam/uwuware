@@ -7,10 +7,7 @@
 ]]
 
 ------------------------------ Load the library ----------------------------
--- If you have it as a ModuleScript, do:
-local Library = require(path.to.uwuware_reborn)
 
--- Or if you're loading from a raw URL:
 -- local Library = loadstring(game:HttpGet("YOUR_RAW_URL_HERE", true))()
 
 ------------------------------ Create windows ------------------------------
