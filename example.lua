@@ -8,7 +8,7 @@
 
 ------------------------------ Load the library ----------------------------
 
--- local Library = loadstring(game:HttpGet("YOUR_RAW_URL_HERE", true))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Spektronazam/uwuware/refs/heads/main/source", true))()
 
 ------------------------------ Create windows ------------------------------
 
